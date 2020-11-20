@@ -34,3 +34,5 @@
 - v0.8.0 增加对clash链接中节点的抓取
 - v0.8.1 修复一个节点去重bug，目前国内检测可用节点破2k
 ![2020.png](https://i.loli.net/2020/11/08/fjuGbWKXP2ZLkaw.png)
+- v0.8.2 增加节点解析的鲁棒性，减少误丢的节点数量
+![3009.png](https://i.loli.net/2020/11/20/kYSFe14mHRgUyL9.png)
